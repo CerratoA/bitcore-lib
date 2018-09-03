@@ -1,5 +1,5 @@
 {
-  "name": "@xourse/bitcore-lib",
+  "name": "@xourse/efin-bitcore-lib",
   "version": "0.14.2",
   "description": "A pure and powerful JavaScript Crypto library.",
   "author": "BitPay <dev@bitpay.com>",
